@@ -1,0 +1,14 @@
+File name:           working/rhino2.log
+Number of packets:   370
+Capture duration:    99.115250 seconds
+Earliest packet time: 2004-04-28 21:08:30.180553
+Latest packet time:   2004-04-28 21:10:09.295803
+SHA256:              41939d5de0556b70279056572dee44b6fd84cd05b0788cfd0b6f52f37b161dde
+                     Number of packets = 370
+File name:           working/rhino3.log
+Number of packets:   295
+Capture duration:    67.450629 seconds
+Earliest packet time: 2004-04-28 21:15:41.191431
+Latest packet time:   2004-04-28 21:16:48.642060
+SHA256:              7b0304f5e88a30c305a99b5a1e2977bced5b9c94da6f458f887bb39966bbfc46
+                     Number of packets = 295
