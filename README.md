@@ -7,7 +7,7 @@
 
 ## What this package contains
 
-- `SBTDF204_CaseStudy4_2025-FWSD-11468.pdf` and `.docx` — the full report (29 pages), with executive
+- `SBTDF204_CaseStudy4_2025-FWSD-11468.pdf` — the full report (29 pages), with executive
   conclusion, method, findings for all 8 investigation questions, a UTC timeline (9 events across 4
   artefact families), an evidence log (E01–E19+), limitations/alternative explanations, and appendices.
 - `screenshots/` — every labelled figure used in the report, as individual PNG files, named to match
